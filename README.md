@@ -15,4 +15,3 @@ Bildiğm yazılım dilleri;
 HAKKIMDA;
 
 [GitHub](https://github.com/Rahibe/)
-[Discord](https://discord.com/user/689977464663179309)
