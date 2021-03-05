@@ -13,4 +13,5 @@ Bildiğm yazılım dilleri;
 - [X] C#
 
 HAKKIMDA;
--[GitHub](https://github.com/Rahibe/).
+
+[GitHub](https://github.com/Rahibe/)
