@@ -1,6 +1,5 @@
 Bildiğm yazılım dilleri;
-- [x] Php
-- [x] Html
+- [x] Php - [x] Html
 - [x] Css
 - [x] Python
 - [x] Javacsrpit
