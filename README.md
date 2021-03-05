@@ -11,5 +11,6 @@ Bildiğm yazılım dilleri;
 - [x] C
 - [X] C++
 - [X] C#
-HAKKIMDA
-Github [GitHub](https://github.com/Rahibe/).
+
+HAKKIMDA;
+- [GitHub]((https://github.com/Rahibe/).
