@@ -5,4 +5,4 @@ Bildiğim Bazı Yazılım ile İlgili Diller ;
 4.Node.js
 5.Css
 6.Python
-[http://discord.com] discord
+[discord] (http://discord.com)
