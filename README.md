@@ -1,5 +1,6 @@
 Bildiğm yazılım dilleri;
-- [x] Php - [x] Html
+- [x] Php 
+- [x] Html
 - [x] Css
 - [x] Python
 - [x] Javacsrpit
@@ -10,3 +11,5 @@ Bildiğm yazılım dilleri;
 - [x] C
 - [X] C++
 - [X] C#
+HAKKIMDA
+Github [GitHub](https://github.com/Rahibe/).
