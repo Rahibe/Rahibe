@@ -6,7 +6,7 @@
 <h3>Kişisel hesaplarım:</h3>
 <p align="left">
    <a href="https://discord.com/users/689977464663179309" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://open.spotify.com/user/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://open.spotify.com/user/gnf74efwyd664qwxxggt9ukyh?si=znLvzeyyRSSBmgJRSEhx3w" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.youtube.com/" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://instagram.com/dogukann_akcaa" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/Rahibe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
