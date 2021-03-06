@@ -3,7 +3,7 @@
 
 <h2 align="left">Merhaba <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
    <p align="left">Merhaba Ben <a href="">,Doğukan!</a>, Türkiyede yaşayan genç bir yazılımcı  🚀</p>
-<h3>My Personal accounts:</h3>
+<h3>Kişisel hesaplarım:</h3>
 <p align="left">
    <a href="https://discord.com/users/689977464663179309" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -14,7 +14,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
   <li>💻 Şuan Bir proje üzerinde çalışıyorum 😎</li>
-  <li>📫Bana ulaşabilirsin <a href="https://discord.com/users/689977464663179309" target"blank_">Discord</a> or <a href="https://instagram.com/dpgukann_akcaa" target="_blank">Instagram</a>.</li>
+  <li>📫Bana ulaşabilirsin <a href="https://discord.com/users/689977464663179309" target"blank_">Discord</a> or <a href="https://instagram.com/dogukann_akcaa" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Bildiğim Yazılım Dilleri:</h3>
 <p style="float:right">
