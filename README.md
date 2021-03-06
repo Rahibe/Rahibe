@@ -11,7 +11,7 @@
    <a href="https://instagram.com/dogukann_akcaa" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/Rahibe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<h3>Talking about Personal Stuffs:</h3>
+<h3>Hakkımda:</h3>
 <ul>
   <li>💻 Şuan Bir proje üzerinde çalışıyorum 😎</li>
   <li>📫Bana ulaşabilirsin <a href="https://discord.com/users/689977464663179309" target"blank_">Discord</a> or <a href="https://instagram.com/dogukann_akcaa" target="_blank">Instagram</a>.</li>
