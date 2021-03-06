@@ -16,7 +16,7 @@
   <li>💻 Şuan Bir proje üzerinde çalışıyorum 😎</li>
   <li>📫Bana ulaşabilirsin <a href="https://discord.com/users/689977464663179309" target"blank_">Discord</a> or <a href="https://instagram.com/dpgukann_akcaa" target="_blank">Instagram</a>.</li>
 </ul>
-<h3>Languages and Tools:</h3>
+<h3>Bildiğim Yazılım Dilleri:</h3>
 <p style="float:right">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
