@@ -31,7 +31,7 @@
    <code><img height="20" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
    <code><img height="20" src="https://cdn.discordapp.com/attachments/805060398716813312/811565843883622400/nuxt-icon_1.png"></code>
 </p>
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub İstatistiğm:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbecue&theme=dark&count_private=true&show_icons=true&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=isacandikkaya&theme=vue-dark&dark_icons=true" />
