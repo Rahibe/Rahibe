@@ -3,7 +3,7 @@
 
 <h2 align="left">Merhaba <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
    <p align="left">Merhaba Ben <a href="">,Doğukan!</a>, Türkiyede yaşayan genç bir yazılımcı  🚀</p>  
-<img src="https://komarev.com/ghpvc/?username=Rahibe=Profile%20views&color=0e75b6&style=flat" alt="Rahibe" />
+<img src="https://github.com/ghpvc/?username=Rahibe=Profile%20views&color=0e75b6&style=flat" alt="Rahibe" />
 <h3>Kişisel hesaplarım:</h3>
 <p align="left">
    <a href="https://discord.com/users/689977464663179309" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
