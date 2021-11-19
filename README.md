@@ -14,6 +14,7 @@
 </p>
 <h3>Hakkımda:</h3>
  <a href="https://stackoverflow.com/users/17460844/rahibe?tab=profile" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/stack-overflow-stackoverflow-apps-platform-512.png" width="30px" heigth= "30px" /></a>
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 <ul>
   <li>💻 Şuan Bir proje üzerinde çalışıyorum 😎</li>
   <li>📫Bana ulaşabilirsin <a href="https://discord.com/users/689977464663179309" target"blank_">Discord</a> or <a href="https://instagram.com/" target="_blank">Instagram</a>.</li>
