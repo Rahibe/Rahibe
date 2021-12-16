@@ -17,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 <ul>
   <li>💻 Şuan Bir proje üzerinde çalışıyorum 😎</li>
-  <li>📫Bana ulaşabilirsin <a href="https://discord.com/users/689977464663179309" target"blank_">Discord</a> or <a href="https://instagram.com/" target="_blank">Instagram</a>.</li>
+  <li>📫Bana ulaşabilirsin <a href="https://discord.com/users/689977464663179309" target"blank_">Discord</a> or <a href="https://instagram.com/the.doqu" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Bildiğim Bazı Yazılım Dilleri:</h3>
 <p style="float:right">
