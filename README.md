@@ -29,6 +29,6 @@
 </p>
 <h3 align="left">GitHub İstatistiğm:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbecue&theme=dark&count_private=true&show_icons=true&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahibe&theme=dark&count_private=true&show_icons=true&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=Rahibe&theme=vue-dark&dark_icons=true" />
 </p>
